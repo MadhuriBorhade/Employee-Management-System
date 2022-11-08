@@ -9,5 +9,7 @@ This Project manages Employee Information like on which day an employee joins a 
 Also we have added the functionality to view, add, remove and filter out employees details.
 
 Contact- +44 07442692080
+
 Email - mborhade2824@gmail.com
+
 LinkedIn - linkedin.com/in/madhuri-borhade-099637236
